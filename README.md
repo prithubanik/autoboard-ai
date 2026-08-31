@@ -396,4 +396,4 @@ This project is licensed under the MIT License—see the [LICENSE](LICENSE) file
 
 **Built with ❤️ for autonomous business intelligence**
 
-*Made by a data scientist who believes AI agents should do the heavy lifting.*
+*Made by a AI Engineer who believes AI agents should do the heavy lifting.*
