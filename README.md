@@ -140,8 +140,6 @@ autoboard-ai/
 │       └── vector_db_client.py # Vector DB client (optional)
 │
 ├── reflection_node.py         # Learning and synthesis
-├── requirements.txt           # Python dependencies
-└── setup_guide.md            # Detailed setup instructions
 ```
 
 ---
